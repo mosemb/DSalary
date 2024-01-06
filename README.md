@@ -1,1 +1,1 @@
-In this Data Science Project the goal was to predict the amount of pay one will get basing on the location of the company, and other features. The data used was scrapped from GlassDoor. 
+In this Data Science Project the goal was to predict the amount of pay one will get basing on the location of the company, and other features. The data used was scrapped from GlassDoor. There are different notebooks in the repo from scrapping, cleaning, EDA and Modeling. Different Git Branches were created for each of the actions. 
